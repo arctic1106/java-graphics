@@ -1,0 +1,5 @@
+com/android/tools/r8/annotations/LambdaMethod
+com/defold/sound/Sound
+com/defold/sound/SoundManager
+com/defold/window/WindowJNI
+com/dynamo/android/DefoldActivity
